@@ -7,3 +7,6 @@ build/
 *.log
 *.tmp
 *.cache
+
+temp.log
+
