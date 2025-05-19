@@ -10,4 +10,5 @@ body.dark-mode a {
 
 header {
     margin-bottom: 20px;
-}
+}".footer-widget { padding: 20px; }" 
+".footer-widget:hover { background-color: #f4f4f4; }" 
