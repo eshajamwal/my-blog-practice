@@ -1,0 +1,9 @@
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+dist/
+build/
+*.log
+*.tmp
+*.cache
