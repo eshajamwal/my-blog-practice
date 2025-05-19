@@ -7,3 +7,7 @@ body.dark-mode {
 body.dark-mode a {
     color: #bb86fc;
 }
+
+header {
+    margin-bottom: 20px;
+}
