@@ -1,6 +1,9 @@
+/* Dark theme overrides */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #fff;
-    color: #333;
+body.dark-mode a {
+    color: #bb86fc;
 }
