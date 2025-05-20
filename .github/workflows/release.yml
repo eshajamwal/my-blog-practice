@@ -13,3 +13,6 @@ jobs:
 
       - name: Auto Tag
         uses: Klemensas/action-autotag@stable
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
