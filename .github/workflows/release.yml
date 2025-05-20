@@ -15,4 +15,6 @@ jobs:
         uses: Klemensas/action-autotag@stable
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+        with:
+          package_root: .
+          version: pyproject.toml
