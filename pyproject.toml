@@ -1,0 +1,3 @@
+[tool.poetry]
+name = "my-blog-practice"
+version = "1.0.0"
